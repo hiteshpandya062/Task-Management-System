@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\taskmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:taskmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\authservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\authservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\helper\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:helper\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\userservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\userservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\iauthservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\iauthservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\iuserservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\iuserservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\authservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\authservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\userservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\userservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\taskservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\taskservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\services\\taskservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:services\\taskservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\itaskservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\itaskservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\iuserservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\iuserservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\itaskservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\itaskservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\sharedresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:sharedresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|c:\\hitesh\\task-management-system\\backend\\taskmanagementapi\\interface\\iauthservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A7EC9E-B50D-4CF0-B886-2E0F416C9232}|TaskManagementAPI.csproj|solutionrelative:interface\\iauthservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\UsersRegisterVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\TaskDetailsVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\todo-project\\backend\\DataAccessLayer\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\todo-project\\backend\\DataAccessLayer\\TaskDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\todo-project\\backend\\DataAccessLayer\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:55:15.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\AuthServiceBAL.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\AuthServiceBAL.cs",
+              "RelativeToolTip": "Services\\AuthServiceBAL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwGgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:00:00.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Helper\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\PasswordHelper.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Helper\\PasswordHelper.cs",
+              "RelativeToolTip": "Helper\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:35:06.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:58:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:10:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:11:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersRegisterVM.cs",
+              "DocumentMoniker": "C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\UsersRegisterVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\ViewModels\\UsersRegisterVM.cs",
+              "ToolTip": "C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\UsersRegisterVM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\ViewModels\\UsersRegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:30:28.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskDetailsVM.cs",
+              "DocumentMoniker": "C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\TaskDetailsVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\ViewModels\\TaskDetailsVM.cs",
+              "ToolTip": "C:\\todo-project\\backend\\DataAccessLayer\\ViewModels\\TaskDetailsVM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\ViewModels\\TaskDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:17:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\TaskManagementAPI.csproj",
+              "RelativeDocumentMoniker": "TaskManagementAPI.csproj",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\TaskManagementAPI.csproj",
+              "RelativeToolTip": "TaskManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T07:50:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T12:59:43.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AppSettings.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\AppSettings.cs",
+              "RelativeToolTip": "AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:04:13.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IUserServiceBAL.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IUserServiceBAL.cs",
+              "RelativeToolTip": "Interface\\IUserServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:04:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\AuthServiceDAL.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\AuthServiceDAL.cs",
+              "RelativeToolTip": "Services\\AuthServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:59:46.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\UserServiceDAL.cs",
+              "RelativeDocumentMoniker": "Services\\UserServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\UserServiceDAL.cs",
+              "RelativeToolTip": "Services\\UserServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:04:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\TaskServiceDAL.cs",
+              "RelativeDocumentMoniker": "Services\\TaskServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\TaskServiceDAL.cs",
+              "RelativeToolTip": "Services\\TaskServiceDAL.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAawFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:01:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\UserServiceBAL.cs",
+              "RelativeDocumentMoniker": "Services\\UserServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\UserServiceBAL.cs",
+              "RelativeToolTip": "Services\\UserServiceBAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawEMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:04:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IAuthServiceBAL.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IAuthServiceBAL.cs",
+              "RelativeToolTip": "Interface\\IAuthServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:00:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\TaskServiceBAL.cs",
+              "RelativeDocumentMoniker": "Services\\TaskServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Services\\TaskServiceBAL.cs",
+              "RelativeToolTip": "Services\\TaskServiceBAL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAlwHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:02:02.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\todo-project\\backend\\DataAccessLayer\\Enum.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\Enum.cs",
+              "ToolTip": "C:\\todo-project\\backend\\DataAccessLayer\\Enum.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:35:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:52:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskDetail.cs",
+              "DocumentMoniker": "C:\\todo-project\\backend\\DataAccessLayer\\TaskDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\TaskDetail.cs",
+              "ToolTip": "C:\\todo-project\\backend\\DataAccessLayer\\TaskDetail.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\TaskDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:35:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\todo-project\\backend\\DataAccessLayer\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\User.cs",
+              "ToolTip": "C:\\todo-project\\backend\\DataAccessLayer\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\todo-project\\backend\\DataAccessLayer\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:05:06.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaskServiceBAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\ITaskServiceBAL.cs",
+              "RelativeDocumentMoniker": "Interface\\ITaskServiceBAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\ITaskServiceBAL.cs",
+              "RelativeToolTip": "Interface\\ITaskServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:02:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITaskServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\ITaskServiceDAL.cs",
+              "RelativeDocumentMoniker": "Interface\\ITaskServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\ITaskServiceDAL.cs",
+              "RelativeToolTip": "Interface\\ITaskServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:02:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IUserServiceDAL.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IUserServiceDAL.cs",
+              "RelativeToolTip": "Interface\\IUserServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:48:21.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthServiceDAL.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IAuthServiceDAL.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthServiceDAL.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\Interface\\IAuthServiceDAL.cs",
+              "RelativeToolTip": "Interface\\IAuthServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:00:17.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\SharedResponses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SharedResponses\\ApiResponse.cs",
+              "ToolTip": "C:\\Hitesh\\task-management-system\\backend\\TaskManagementAPI\\SharedResponses\\ApiResponse.cs",
+              "RelativeToolTip": "SharedResponses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:39:33.86Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
